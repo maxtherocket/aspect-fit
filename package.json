@@ -1,6 +1,6 @@
 {
   "name": "aspect-fit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns scale and dimensions of a rectagle that will fit a specific area.",
   "main": "index.js",
   "license": "MIT",

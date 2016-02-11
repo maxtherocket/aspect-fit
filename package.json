@@ -1,0 +1,35 @@
+{
+  "name": "aspect-fit",
+  "version": "1.0.0",
+  "description": "Returns scale and dimensions of a rectagle that will fit a specific area.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Max Rusan",
+    "email": "max@maxtherocket.com",
+    "url": "https://github.com/maxtherocket"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "scripts": {
+    "test": "node test/fit.js"
+  },
+  "keywords": [
+    "fit,",
+    "calculation,",
+    "rectangle,",
+    "aspect,",
+    "dimensions,",
+    "area"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxtherocket/aspect-fit.git"
+  },
+  "homepage": "https://github.com/maxtherocket/aspect-fit",
+  "bugs": {
+    "url": "https://github.com/maxtherocket/aspect-fit/issues"
+  }
+}
